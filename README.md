@@ -1,6 +1,7 @@
 # pyWeather
 <br/>
-CURRENT IN THE PROCESS OF SWITCH WEATHER API'S TO WEATHER DOT COM
+CURRENTLY IN THE PROCESS OF SWITCH WEATHER API'S TO WEATHER DOT COM
+<br/>
 <br/>
 Using Open Weathers Free API to access universal weather by city name
 https://openweathermap.org/api
